@@ -1,0 +1,21 @@
+{
+  "name": "postme",
+  "version": "1.0.0",
+  "description": "aplicacionPWA",
+  "main": "index.js",
+  "dependencies": {
+    "npm": "^6.14.14"
+  },
+  "devDependencies": {
+    "http-server": "^13.0.0"
+  },
+  "scripts": {
+    "start": "http-server -c -1 ."
+  },
+  "keywords": [
+    "pwa",
+    "postme"
+  ],
+  "author": "llg",
+  "license": "ISC"
+}
