@@ -1,5 +1,4 @@
 /node_modules
-package.json
 install_tools.bat
 node.exe
 node_etw_provider.man
